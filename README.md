@@ -1,6 +1,6 @@
 <div>
   
-  ## Hello! My name is Felipe
+  ## Hello! My name is Felipe 👋
   ```
   💻 Front-end Developer
   ```
