@@ -5,8 +5,8 @@
   💻 Front-end Developer
   ```
   <a href="https://github.com/felipedalbert">
-  <img height="180em" width="600px" src="https://github-readme-stats.vercel.app/api?username=felipedalbert&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedalbert&layout=compact&langs_count=6&theme=codeSTACKr"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=felipedalbert&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedalbert&layout=compact&langs_count=6&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
