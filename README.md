@@ -5,7 +5,7 @@
   💻 Front-end Developer
   ```
   <a href="https://github.com/felipedalbert">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipedalbert)](https://github.com/felipedalbert/github-readme-stats)
+  [!][Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipedalbert)](https://github.com/felipedalbert/github-readme-stats)
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedalbert&layout=compact&langs_count=6&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
