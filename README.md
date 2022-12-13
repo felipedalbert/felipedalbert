@@ -3,7 +3,7 @@
   ## Hello! My name is Felipe 👋
   
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F47C57&background=00FF9A00&vCenter=true&width=435&height=35&lines=Front-end+Developer!;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F47C57&background=00FF9A00&vCenter=true&width=435&height=30&lines=Front-end+Developer!;Always+learning+new+things!)](https://git.io/typing-svg)
   
 <div>
   <a href="https://github.com/felipedalbert">
