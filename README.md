@@ -2,8 +2,10 @@
   
   ## Hello! My name is Felipe 👋
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F47C57&background=00FF9A00&width=435&lines=Front-end+Developer!;Always+learning+new+things!)](https://git.io/typing-svg)
-<div>
+  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F47C57&background=00FF9A00&width=435&height=30&lines=Front-end+Developer!;Always+learning+new+things!)](https://git.io/typing-svg)
+  
+<div style="margin-top: -30px">
   <a href="https://github.com/felipedalbert">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=felipedalbert&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedalbert&layout=compact&langs_count=6&theme=codeSTACKr"/>
