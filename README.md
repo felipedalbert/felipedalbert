@@ -4,8 +4,9 @@
   ```
   💻 Front-end Developer
   ```
+<div>  
   <a href="https://github.com/felipedalbert">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=felipedalbert&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?      username=felipedalbert&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedalbert&layout=compact&langs_count=6&theme=codeSTACKr"/>
 </div>
 
