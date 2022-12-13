@@ -2,7 +2,7 @@
   
   ## Hello! My name is Felipe 👋
   ```
-  💻 Front-end Developer
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F47C57&background=00FF9A00&width=435&lines=Front-    end+Developer!;Always+learning+new+things!)](https://git.io/typing-svg)
   ```
 <div>
   <a href="https://github.com/felipedalbert">
