@@ -27,7 +27,7 @@
   <a href = "mailto:felipeoficial195@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
   <a href="https://instagram.com/felipedalbert" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-dalbert-9a1435227/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://linktr.ee/felipedalbert" target="_blank" rel="external"><img src="https://img.shields.io/badge/-linktree-%2348812d?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
+  <a href="https://linktr.ee/felipedalbert" target="_blank" rel="external"><img src="https://img.shields.io/badge/-linktree-%2348812d?style=for-the-badge&logo=linktree&logoColor=white" target="blank"></a> 
  
   ![Snake animation](https://github.com/felipedalbert/felipedalbert/blob/output/github-contribution-grid-snake.svg)
 
